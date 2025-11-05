@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EXSIM executable files (large binary files)
+*.exe
+*.dll
+
+# Output files
+*.out
+*.png
+*.csv
+Array_*/
+
+# Temporary files
+*.tmp
+*.log
+
+# Data files (comment out if you want to track these)
+# *.txt
+# *.params
+
