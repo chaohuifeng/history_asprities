@@ -1,0 +1,63 @@
+Event: 1893
+  Samples: 176
+  PGA mean (orig/amp): 27.476 / 28.910
+  PGA max (orig/amp): 243.700 / 254.106
+  PGV mean (orig/amp): 38.795 / 39.790
+  PGV max (orig/amp): 178.220 / 178.220
+  Intensity p50/p90: 6.240 / 7.552
+
+Event: 1904
+  Samples: 121
+  PGA mean (orig/amp): 39.577 / 41.184
+  PGA max (orig/amp): 179.810 / 323.658
+  PGV mean (orig/amp): 50.911 / 52.101
+  PGV max (orig/amp): 162.520 / 243.780
+  Intensity p50/p90: 6.667 / 9.642
+
+Event: 1923
+  Samples: 176
+  PGA mean (orig/amp): 30.246 / 31.152
+  PGA max (orig/amp): 166.160 / 219.276
+  PGV mean (orig/amp): 40.672 / 41.499
+  PGV max (orig/amp): 203.340 / 203.340
+  Intensity p50/p90: 6.284 / 7.714
+
+Event: 1955
+  Samples: 256
+  PGA mean (orig/amp): 36.175 / 37.015
+  PGA max (orig/amp): 333.520 / 333.520
+  PGV mean (orig/amp): 57.094 / 58.097
+  PGV max (orig/amp): 308.420 / 308.420
+  Intensity p50/p90: 6.565 / 9.557
+
+Event: 1973
+  Samples: 441
+  PGA mean (orig/amp): 24.748 / 25.055
+  PGA max (orig/amp): 192.230 / 192.230
+  PGV mean (orig/amp): 41.563 / 42.085
+  PGV max (orig/amp): 202.100 / 202.100
+  Intensity p50/p90: 6.170 / 7.369
+
+Event: 1981
+  Samples: 121
+  PGA mean (orig/amp): 23.850 / 24.876
+  PGA max (orig/amp): 126.540 / 217.260
+  PGV mean (orig/amp): 28.244 / 29.019
+  PGV max (orig/amp): 114.290 / 171.435
+  Intensity p50/p90: 5.954 / 7.370
+
+Event: 2014
+  Samples: 256
+  PGA mean (orig/amp): 10.197 / 10.461
+  PGA max (orig/amp): 87.210 / 87.210
+  PGV mean (orig/amp): 13.348 / 13.590
+  PGV max (orig/amp): 57.800 / 57.800
+  Intensity p50/p90: 4.712 / 6.065
+
+Event: 2022
+  Samples: 546
+  PGA mean (orig/amp): 12.268 / 12.622
+  PGA max (orig/amp): 198.640 / 198.640
+  PGV mean (orig/amp): 21.798 / 22.277
+  PGV max (orig/amp): 155.160 / 155.160
+  Intensity p50/p90: 5.331 / 6.400
