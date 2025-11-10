@@ -191,7 +191,7 @@ Academic research use only.
 
 ## 联系方式
 
-- 作者：冯超辉  
+- 作者：奉超晖  
 - 邮箱：fengchaohui23@mails.ucas.ac.cn  
 - 日期：2025-10-01
 
